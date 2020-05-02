@@ -3,5 +3,9 @@ Esta es mi vida, Dennis Alejandro Salinas Estrada
 para crear un repositorio tienes que decir donde esta la carpeta de los archivos
  git init #en la carpeta que elejiste como repositorio
 
-i am 23 years old
-i live in mexico
+En esta ocacion voy a practicar con git un rato antes de apsar a la siguiente clase en platzi
+
+esta sera una prueba
+vaya vaya
+one two three four five six seven eight nine ten
+white black blue red orange yellow green 
